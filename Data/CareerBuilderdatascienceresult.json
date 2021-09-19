@@ -1,0 +1,1448 @@
+2021/18/8 22:49:18
+[
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/chuyen-vien-phan-tich-du-lieu-rui-ro-gian-lan-data-science.35B681F4.html",
+        "Title": "Chuyên viên Phân tích dữ liệu rủi ro gian lận (Data science)",
+        "Company": "Ngân Hàng TMCP Quân Đội"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "24/07/2021",
+            "field": "CNTT - Phần mềm                                    ,                                                                             Ngân hàng",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "1 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "22/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Du lịch nước ngoài",
+            " Đồng phục",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Công tác phí",
+            " Phụ cấp thâm niên",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Xây dựng phương luận, quy định, quy trình phân tích dữ liệu để phát hiện gian lận.",
+            "Xây dựng các kịch bản/ mô hình phân tích dữ liệu để phát hiện gian lận.",
+            "Quản lý, theo dõi tính hiệu quả/phù hợp và cải tiến liên tục các kịch bản/mô hình phân tích dữ liệu để phát hiện gian lận."
+        ],
+        "requirements": [
+            "Am hiểu các phương pháp, mô hình phân tích dữ liệu để phát hiẹn gian lận (đặc biệt các mô hình Machine learning/ Deep learning)",
+            "Ngoại ngữ: TOIEC tối thiểu 700 (hoặc các chứng chỉ khác tương đương)",
+            "Ưu tiên các ứng viên: đã có kinh nghiệm triển khai dự án phát triển phần mềm Phòng chống gian lận của Ngân hàng/Doanh nghiệp."
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/fintech-chuyen-vien-xay-dung-mo-hinh.35B6A1CB.html",
+        "Title": "[Fintech] Chuyên Viên Xây Dựng Mô Hình",
+        "Company": "Công Ty Cổ Phần Truyền Thông VMG"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "09/08/2021",
+            "field": "Ngân hàng                                    ,                                                                             CNTT - Phần mềm                                    ,                                                                             CNTT - Phần cứng / Mạng",
+            "emplType": "Nhân viên chính thức",
+            "salary": "1,500 - 2,000 USD",
+            "expReq": "3 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "07/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Du lịch nước ngoài",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Công tác phí",
+            " Nghỉ phép năm",
+            " CLB thể thao"
+        ],
+        "description": [
+            "Xây dựng, phát triển mô hình xếp hạng tín dụng cho khách hàng cá nhân/tiểu thương hoặc/và khách hàng doanh nghiệp (A Score, B score, C Score...);",
+            "Thu thập, xử lý, phân tích dữ liệu lớn phục vụ các báo cáo phân tích, xây dựng, giám sát, kiểm định mô hình và tham gia phát triển, triển khai, vận hành các dịch vụ/giải pháp cho các Ngân hàng, Công ty Tài chính, Bảo hiểm, lĩnh vực khác…",
+            "Xử lý dữ liệu lớn, xây dựng hoặc kiểm định các mô hình dự báo khác khi được yêu cầu (fraud detection, mô hình tìm kiếm khách hàng, bán chéo, ...);",
+            "Tham gia tổ chức, xây dựng, phát triển và quản lý hệ thống cơ sở dữ liệu phục vụ xây dưng, kiểm định lại mô hình trong quá trình phát triển (backtest);",
+            "Áp dụng các thuật toán AI &amp; Machine Learning, các công cụ phân tích dữ liệu, thực hiện xây dựng và triển khai các mô hình chấm điểm tín dụng;",
+            "Đào tạo, huấn luyện, xây dựng đội ngũ phân tích dữ liệu theo chiến lược của Công ty.",
+            "Thực hiện các công việc phân tích, xử lý dữ liệu khác."
+        ],
+        "requirements": [
+            "Tốt nghiệp Đại học trở lên với chuyên ngành: toán, thống kê, kinh tế lượng, công nghệ thông tin, computer science…",
+            "Có kiến thức về thống kê (nắm rõ các kiểm định thống kê, các mô hình như linear regression, logistic regression …), xây dựng mô hình rủi ro, AI, machine learning (các thuật toán random forest, gradient boosting …), có base về Toán tin, Data science",
+            "Có kinh nghiệm và khả năng sử dụng các công cụ hỗ trợ xây dựng mô hình và tính toán thống kê như R, Python, SAS, MatLab…",
+            "Thành thạo SQL",
+            "Hiểu biết các thực hành phổ biến trong hoạt động quản trị rủi ro tín dụng tại các ngân hàng thương mại, công ty tài chính, Fintech",
+            "3 - 5 Năm kinh nghiệm tương đương ",
+            "Có khả năng đọc, nghiên cứu tài liệu chuyên môn tiếng anh, và kĩ năng viết cơ bản",
+            "Ưu tiên ứng viên đã có kinh nghiệm trực tiếp xây dựng, giám sát và kiểm định các mô hình lượng hóa rủi ro tín dụng được áp dụng trong thực tế tại các TCTD hoặc đã tiến hành các nghiên cứu chuyên sâu về các mô hình rủi ro tại các trường đại học hoặc tổ chức nghiên cứu.",
+            "Thu nhập 1.500 – 2.000 $/tháng  lương tùy theo kết quả hoạt động kinh doanh mỗi năm",
+            "Làm việc 5 ngày/tuần trong môi trường năng động, chuyên nghiệp",
+            "VMG cam kết xét tăng lương 1 năm 1 lần",
+            "Cơ hội thăng tiến, được đào tạo và có điều kiện khẳng định bản thân",
+            "Có cơ hội thực hiện các nhiệm vụ quan trọng và phát triển các kỹ năng trong nhiều lĩnh vực, khám phá những khả năng mới của bản thân",
+            "Mức lương thỏa thuận (cạnh tranh): tháng lương thứ 13, thưởng cuối năm, gói chế độ phúc lợi, phụ cấp theo quy định của VMG (xăng xe, điện thoại, ăn trưa, v.v)",
+            "Quy chế lương, thưởng thực hiện thống nhất và đúng theo những thỏa thuận ban đầu",
+            "Đầy đủ các chế độ, quyền lợi theo luật định (BHXH, BHYT...); ngoài ra còn có các loại Bảo hiểm tiết kiệm, Bảo hiểm thân thể và các chế độ đãi ngộ hấp dẫn theo quy định riêng tại VMG",
+            "Du lịch trong nước và nước ngoài 2-4 lần/ năm là nét văn hóa đặc biệt tại VMG, một số nước VMG đã đi qua: Thái Lan, Philippines, Malaysia, Indonesia, Singapore, Trung Quốc, Hàn Quốc, Nhật Bản, Italy, Maldives, Canada, Australia, Dubai, Nga...",
+            "Ngoài ra có các chế độ chăm sóc sức khỏe như tập Gym miễn phí hàng ngày, câu lạc bộ chạy hàng tuần và các khoản phí hoạt động bộ phận 200k/nhân sự/tháng được sử dụng cho các hoạt động du lịch gắn kết quy mô bộ phận."
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/performance-marketing-specialist.35B6C7F3.html",
+        "Title": "Performance Marketing Specialist",
+        "Company": "CÔNG TY CỔ PHẦN CÔNG NGHỆ HARAVAN"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "31/07/2021",
+            "field": "Tiếp thị / Marketing                                    ,                                                                             Tiếp thị trực tuyến",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "2 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "29/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Đồng phục",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Nghỉ phép năm",
+            " CLB thể thao"
+        ],
+        "description": [
+            "Planning and delivering marketing strategy.",
+            "Managing and controlling whole paid traffic budget most effective, including: KPI of paid traffic channels, budget &amp; growth of paid channels and reporting traffic.",
+            "Create, launch, monitor and optimize all paid campaigns guided by ROI targets, customer segments and the company’s business objectives.",
+            "Opening more new advertising and marketing channels to expand potential market, revenue, new customers and branding.",
+            "Optimize user funnel conversion with data and experiments.",
+            "Research and analysis of consumer and market insights.",
+            "Optimizing and scaling up marketing budget to achieve exceptional return on investment.",
+            "Demonstrate team leadership skills with proven ability to lead, motivate and develop team members personal development.",
+            "Collaborate with other marketing team members to align efforts and enhance group performance.",
+            "Work closely with SEO, Content, Social team focused on organic user acquisition methods. Working closely with team to support the team drive traffic and sales."
+        ],
+        "requirements": [
+            "At least 3 years of professional work experience as a Performance Marketing.",
+            "Rich paid performance marketing experience.",
+            "Ability to work in rapidly changing business environment situations and effectively negotiate to gain resolution.",
+            "Ability to create, implement and optimize performance marketing campaigns.",
+            "Analyze the performance of the campaigns and make proposals for further development.",
+            "Create rigorous A/B testing strategy so that we are always learning and finding new wins.",
+            "Manage relationships with vendors and advertising providers.",
+            "Work closely with our Design team to create landing page and content strategies for user acquisition campaigns.",
+            "Work closely with our Data Science and Business Analysts team to ensure decisions are data-driven and leverage user behavior to improve acquisition and retention.",
+            "Be creative in coming up with and testing new initiatives, techniques and approaches to drive acquisition, growth and retention.",
+            "Monitor market trends, research consumer markets and competitors' activities to identify opportunities and key issues.",
+            "Strong verbal and written communications skills.",
+            "HARAVAN is the first and leading company in Vietnam that provides the One-Stop SaaS Commerce Platform in Vietnam. HARAVAN is now serving 50,000+ businesses including top brands such as Vinamilk, AEON, THEFACESHOP,  L'Oréal, Nestlé, Juno, Bitis’s, Thien Long, Kềm Nghĩa...",
+            "HARAVAN is the technology company in the SeedCom group. We provide technology solutions for its members such as GHN, The Coffee House, Cầu Đất Farm, Juno, Eva De Eva, HNOSS, KingFood…",
+            "HARAVAN is the first Vietnam commerce solution provider was chosen by Google, to join the Google Launchpad Accelerator program at Google headquarter. And the first Vietnam partner as a business solution provider for the Facebook Messenger platform. ",
+            "Dynamic and friendly working environment.",
+            "Attractive salary and benefits package.",
+            "Internal events: Engagement activities, Company Trip, Team building, Haravan's birthday, Year-end party…",
+            "Annual health check-up and premium healthcare.",
+            "13th-month salary and yearly performance bonus."
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/risk-modeler-chuyen-vien-mo-hinh-rui-ro-tin-dung.35B7041B.html",
+        "Title": "Risk Modeler (Chuyên viên mô hình rủi ro tín dụng)",
+        "Company": "Công Ty Tài Chính Mirae Asset (Việt Nam)"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "18/08/2021",
+            "field": "Tài chính / Đầu tư                                    ,                                                                             Ngân hàng                                    ,                                                                             Quản lý chất lượng (QA/QC)",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "2 - 3 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "30/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Công tác phí"
+        ],
+        "description": [
+            "Cooperate actively with model providers to develop, implement, test and validate the Credit Scoring Models, include Application Scoring System, Behavior Scoring System, Collection Scoring System, Propensity Scoring System, etc.",
+            "Apply the results of all Credit Scoring Systems to all matter of the business, if possible, to the entire consumer credit life cycle, including underwritng, x-sales and topup, debt collections, etc.",
+            "Continuously analyze the effectiveness of models to optimize the application of all of the scoring systems to enhance credit portfolio quality and keep portfolio heathy and sustainable.",
+            "Cooperate actively on technical level with IT and data warehouse teams.",
+            "Provide input to Portfolio Quality Review meetings"
+        ],
+        "requirements": [
+            "University Degree of Banking, Finance, Statistics, Mathemmatics, or related area.",
+            "Min. 2 years of experience in data science related job in an credit institution maintaining retail customer data.",
+            "Experience of risk management practices within the Vietnam banking / consumer finance industry and familiarity with credit risk exposure calculation methodologies &amp; tools would be desirable but not essential. ",
+            "Good knowledge and experience in business statistics, preferaly, consumer finance industry. ",
+            "Experience in Data Profiling and Data Cleansing.",
+            "Working knowledge of ETL technologies and associated implementation methodologies.",
+            "Proficient in use of Excel and good knowledge about statistics programs (Python, SAS , Answer Tree, R Statistics,).",
+            "Strong SQL skills to support analysis of data.",
+            "Excellent interpersonal skills in dealing with key stakeholders.",
+            "A track record of delivering to aggressive deadlines.",
+            "Highly self-motivated.",
+            "Enthusiastic in detail of data and numbers",
+            "Fluent in English, both verbal and written",
+            "Experience in Data Profiling and Data Cleansing --&gt;  Experience in Data Profiling and Data Cleansing, Exploratory, Inferential Statistics, Modelling &amp; Prediction. "
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Cao đẳng\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/lecturer-senior-lecturer-computer-science-ai-development-blockchain.35B68803.html",
+        "Title": "Lecturer, Senior Lecturer - Computer Science, AI Development, Blockchain",
+        "Company": "Gyalpozhing College of IT, Royal University of Bhutan"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "15/08/2021",
+            "field": "Giáo dục / Đào tạo                                    ,                                                                             CNTT - Phần mềm",
+            "emplType": "Nhân viên chính thức",
+            "salary": "2,000 - 5,000 USD",
+            "expReq": "1 - 10 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "13/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Front-End Web Development (HTML, CSS, JavaScript)",
+            "Back-End Web Development (Java, .Net, NodeJS, Express JS)",
+            "iOS Mobile Programming (Swift, Objective-C, Kotlin)",
+            "Android Mobile Programming (proficiency in Android Studio and Android SDK)",
+            "Software Engineering Practices",
+            "Experience working on structured and unstructured database languages",
+            "Familiar with Cloud Computing Technologies (AWS, Google, Azure)",
+            "Proficiency in one or more programming languages (Python, Go, Java, R, C, C++)",
+            "Familiarity with AI visual tool such as Microsoft Azure, Power BI or Tableau is highly regarded",
+            "Knowledge of Machine Learning Algorithms",
+            "Knowledge of Deep Learning and Reinforcement Learning",
+            "Basic statistical methods, data &amp; statistical analysis and visualisation",
+            "Experience working on structured and unstructured database languages",
+            "Relevant experience in using open-source DevOps tools and software",
+            "Familiar with Big data technologies (example: Apache, Hadoop)",
+            "Familiar with mainstream deep learning frameworks are highly regarded",
+            "Proficiency in one or more programming languages (Python, Solidity, Java, JavaScript, Node.js, Go)",
+            "Knowledge of database principles, networking containers and virtual machines",
+            "Cryptography in Blockchain Technology",
+            "Developing Blockchain smart contracts",
+            "Cryptocurrency wallet operation, development and maintenance",
+            "Decentralised application (Dapps) operation, development and maintenance",
+            "Familiar with server-side application development and DevOps are highly regarded"
+        ],
+        "requirements": [
+            "* Preferred Technical and Professional Expertise",
+            "* Fluent in English Language",
+            "* Excellent teamwork skills",
+            "* Strong EQ/CQ skills, highly adaptable to diverse cultures",
+            "* Strong interpersonal and communication skills are highly essential"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Cao đẳng\r\n         ",
+            " Độ tuổi:\r\n                        25 - 50\r\n                 \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/hn-global-internhip.35B6F197.html",
+        "Title": "[HN] Global Internhip",
+        "Company": "Bespin Global"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "16/08/2021",
+            "field": "Mới tốt nghiệp / Thực tập",
+            "emplType": "Thực tập",
+            "salary": "Cạnh tranh",
+            "expReq": "Sinh viên/ Thực tập sinh",
+            "level": "31/08/2021",
+            "dayEnd": "unknown"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Du Lịch",
+            " Phụ cấp",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương"
+        ],
+        "description": [
+            "Chương trình thực tập sinh tại Bespin Global - Công ty ĐTĐM số 1 Hàn Quốc",
+            "Bạn không cần là một chuyên gia công nghệ để làm việc cho một startup công nghệ!",
+            "Bạn sẽ được làm việc cùng ai?",
+            "Bespin Global là một công ty quản lý đám mây có trụ sở chính tại Hàn Quốc và Trung Quốc. Bespin Global giúp các doanh nghiệp áp dụng và vận hành CNTT của họ trên các đám mây công cộng và riêng tư bằng cách kết hợp bộ phần mềm và dịch vụ độc đáo. Nó đã thu hút hơn 40 triệu đô la vốn đầu tư mạo hiểm từ các nhà đầu tư mạo hiểm nổi tiếng như Singapore’s ST Telemedia và China’s Legend Capital. Vào tháng 4 năm 2017, Công ty đã được đặt tên cho Magic Quadrant Hyperscale Cloud MSP của Gartner.",
+            "Học tập &amp; Phát triển",
+            "Các chương trình của chúng tôi cung cấp đào tạo tại chỗ và cơ hội học tập để nâng cao trình độ chuyên môn.",
+            "Bắt đầu sự nghiệp của bạn bằng cách đóng một vai trò quan trọng trong các chức năng kinh doanh cốt lõi của chúng tôi. Dựa trên sở thích và kỹ năng của bạn, bạn sẽ luân phiên theo các đội khác nhau, bao gồm:",
+            "- Phát triển doanh nghiệp",
+            "- Nhà cung cấp dịch vụ được quản lý (MSP)",
+            "- Phát triển phần mềm (OpsNow)",
+            "- Quản lý sản phẩm",
+            "- Dịch vụ chuyên nghiệp",
+            "- Marketing &amp; Thương hiệu",
+            "- Tài chính kế toán",
+            "Đây là một chương trình thực tập kéo dài 6 tháng. Vào cuối hành trình này, bạn sẽ có cơ hội đi sâu vào một chức năng kinh doanh cụ thể mà bạn quan tâm.",
+            "On-the-job-training",
+            "- Peer: Một Bespineer từ nhóm mà bạn tham gia sẽ hướng dẫn bạn ngay từ ngày đầu tiên. Anh ấy hoặc cô ấy sẽ hỗ trợ bạn hàng ngày.",
+            "- Người cố vấn: Sau ba tháng đầu tiên, bạn sẽ được chỉ định một cố vấn cao cấp, người sẽ hướng dẫn bạn thêm trên con đường sự nghiệp của bạn tại Bespin Global.",
+            "- Ăn trưa và học: Mỗi tuần, chúng tôi sẽ có một buổi ăn trưa nói về các công nghệ mới nhất, mang đến cơ hội để khám phá mối quan tâm của bạn.",
+            "- Hội thảo hàng quý: Chúng tôi sẽ có một hội thảo một ngày mỗi quý. Nửa ngày đào tạo cộng với đánh giá hiệu suất. Mọi người sẽ chuẩn bị một bài thuyết trình ngắn về những gì họ đã học và những gì họ muốn học. Nhóm điều hành sẽ tham gia các phiên này.",
+            "- Đào tạo chuyên nghiệp: Bespin Global đầu tư rất nhiều vào con người của chúng tôi. Chúng tôi cung cấp đào tạo chuyên nghiệp cho Amazon Web Services (AWS), Google Cloud Platform, Microsoft Azure, CI / CD, Containers, bảo mật, IoT, Data science, ML và hơn thế nữa.",
+            "- Cơ hội quốc tế: Bespin Global có văn phòng tại Singapore, Việt Nam, Hàn Quốc, Trung Quốc, UAE và Hoa Kỳ",
+            "- Cơ hội việc làm: Dựa trên thành tích của bạn trong suốt chương trình, chúng tôi sẽ cung cấp việc làm toàn thời gian cho những thực tập sinh xuất sắc."
+        ],
+        "requirements": [
+            "Yêu cầu:",
+            "· Thông thạo tiếng Anh, với các kỹ năng nói, viết, nghe và đọc tiếng Anh xuất sắc. Bạn sẽ làm việc với đồng nghiệp, khách hàng và / hoặc đối tác ở các địa điểm khác trên thế giới (Vui lòng đưa điểm ngôn ngữ có liên quan vào sơ yếu lý lịch của bạn).",
+            "· Các kỹ năng ngoại ngữ khác là một điểm cộng, ưu tiên tiếng Hàn.",
+            "· Đam mê công nghệ là rất quan trọng, chẳng hạn như Fintech, Blockchain, Dữ liệu lớn, AI, máy học, v.v.",
+            "· Kỹ năng thuyết trình và giao tiếp tốt.",
+            "· Tham gia tích cực vào các tổ chức sinh viên, các hoạt động tình nguyện và các hoạt động ngoại khóa là một điểm cộng.",
+            "· Sẵn sàng học hỏi và khả năng làm việc theo nhóm đa dạng.",
+            "· Tận hưởng một môi trường khởi nghiệp đa dạng, nhanh chóng.",
+            "· Một tư duy đổi mới và sáng tạo.",
+            "· Thành thạo Microsoft office và Google Workspace"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/data-visualization-specialist-chuyen-vien-truc-quan-hoa-du-lieu.35B6A3EE.html",
+        "Title": "Data Visualization Specialist | Chuyên Viên Trực Quan Hóa Dữ Liệu",
+        "Company": "De Heus LLC"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "10/08/2021",
+            "field": "CNTT - Phần mềm                                    ,                                                                             CNTT - Phần cứng / Mạng                                    ,                                                                             Ngành khác",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "2 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "08/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Đồng phục",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "\r\n\tCollaborate with Data team members: Data Engineer, Data Analytics Lead, Azure IT specialist, DBA, IT functional support and Data business key users to understand fully requirement and its impact of all angles when building and maintaining report and dashboard\r\n\t",
+            "\r\n\tBuild reports and dashboards using Power BI and Azure Data Lake architecture\r\n\t",
+            "\r\n\tProvide daily support to users to ensure report/dashboard availability, business information accuracy, timely and correctly authenticated for report/dashboard accessing\r\n\t",
+            "\r\n\tProvide basic and advance training Power BI to IT colleagues and business users (for those who are interested in and relevant to the job)\r\n\t",
+            "\r\n\tUpdate progress of delivery for list of reports/dashboard in weekly basis\r\n\t"
+        ],
+        "requirements": [
+            "Bachelor / Engineer of IT or Data Science or equivalent degree. Master or PhD level of education in is preferable",
+            "MS Azure Data Engineer (MS Certified)  is preferred",
+            "MS Azure Data Lake Solution Architect is preferred",
+            "Minimum 2 to 5 years experience in successfully role of Data Analytics and Data Visualization using Power BI",
+            "End-to-end 2 projects of Data Analytics as Data Visualizer",
+            "Hands on experience (at least 2 years) with Azure Data Lake is an advantage",
+            "Familiar with Microsoft Azure Data Lake architecture",
+            "Understand which type of chart for report/dashboard can best deliver business insights",
+            "Communication effectively with senior users",
+            "Graphic sense and well organized is required",
+            "Training skill is required",
+            "Problem solving skill is required",
+            "Hands on DAX is required",
+            "Proficiency in English",
+            "Customer Focus with good listening skill",
+            "Good verbal &amp; written English communication",
+            "Ability to work with globally diverse teams",
+            "Readiness to work in flexible work timings",
+            "Abstract &amp; Analytical Thinking",
+            "A business savvy person. A very good team player",
+            "Nimble learning. Willingness to explore and adapt"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                        25 - 50\r\n                 \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/data-engineer.35B6A3DD.html",
+        "Title": "Data Engineer",
+        "Company": "De Heus LLC"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "10/08/2021",
+            "field": "CNTT - Phần mềm                                    ,                                                                             CNTT - Phần cứng / Mạng                                    ,                                                                             Ngành khác",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "2 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "08/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Đồng phục",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Implement Azure Cloud data lake, data warehouses, Azure and No-SQL databases and hybrid data scenarios. The implementation depends on each BU application landscape and data availability",
+            "Develop batch processing, streaming and integration solutions for data ingestion phase from sources of application to destination of data repository (data lake)",
+            "Automate Azure Data Factory pipelines",
+            "Manage source data access securely",
+            "Configure data access authentication and authorization",
+            "Manage and enforce data policies and procedure standard",
+            "Monitor databases and data processing for a specified scenario",
+            "Implement big data real-time processing and integration solutions"
+        ],
+        "requirements": [
+            "Education: Bachelor / Engineer of IT or Data Science or equivalent degree",
+            "Experience: Minimum 3 Years in Azure Data Engineering",
+            "MS Azure Data Engineer (MS Certified) is preferred",
+            "Minimum 3 to 5 years experience in successfully role of Data Engineer",
+            "Very strong @ SQL-PL SQL-Spark SQL",
+            "Interaction with No SQL Databases",
+            "Interaction with Event Hub, IoT Hub Databases",
+            "Files Processing XML, CSV, Excel, Jason, etc. formats",
+            "Structured and Non-Structured Data processing",
+            "Data ETL Capabilities",
+            "Knowledge of Distributed Big Data Processing",
+            "Data Warehouse and Data Lake Implementation experience in past",
+            "Interaction with REST APIs, Web Services",
+            "Proficiency in English",
+            "Customer Focus",
+            "Good verbal &amp; written English communication",
+            "Ability to work with globally diverse teams",
+            "Readiness to work in flexible work timings",
+            "Abstract&amp; Analytical Thinking",
+            "An interpersonal savvy. A very good team player",
+            "Nimble learning. Willingness to explore and adapt"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                        22 - 50\r\n                 \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/data-engineer.35B6D99C.html",
+        "Title": "Data Engineer",
+        "Company": "De Heus LLC"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "12/08/2021",
+            "field": "CNTT - Phần mềm                                    ,                                                                             CNTT - Phần cứng / Mạng                                    ,                                                                             Ngành khác",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "2 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "10/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Đồng phục",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Implement Azure Cloud data lake, data warehouses, Azure and No-SQL databases and hybrid data scenarios. The implementation depends on each BU application landscape and data availability",
+            "Develop batch processing, streaming and integration solutions for data ingestion phase from sources of application to destination of data repository (data lake)",
+            "Automate Azure Data Factory pipelines",
+            "Manage source data access securely",
+            "Configure data access authentication and authorization",
+            "Manage and enforce data policies and procedure standard",
+            "Monitor databases and data processing for a specified scenario",
+            "Implement big data real-time processing and integration solutions"
+        ],
+        "requirements": [
+            "Education: Bachelor / Engineer of IT or Data Science or equivalent degree",
+            "Experience: Minimum 3 Years in Azure Data Engineering",
+            "MS Azure Data Engineer (MS Certified) is preferred",
+            "Minimum 3 to 5 years experience in successfully role of Data Engineer",
+            "Very strong @ SQL-PL SQL-Spark SQL",
+            "\r\n\tInteraction with No SQL Databases\r\n\t",
+            "\r\n\tInteraction with Event Hub, IoT Hub Databases\r\n\t",
+            "\r\n\tFiles Processing XML, CSV, Excel, Jason, etc. formats\r\n\t",
+            "\r\n\tStructured and Non-Structured Data processing\r\n\t",
+            "\r\n\tData ETL Capabilities\r\n\t",
+            "\r\n\tKnowledge of Distributed Big Data Processing\r\n\t",
+            "\r\n\tData Warehouse and Data Lake Implementation experience in past\r\n\t",
+            "\r\n\tInteraction with REST APIs, Web Services\r\n\t",
+            "\r\n\tProficiency in English\r\n\t",
+            "\r\n\tCustomer Focus\r\n\t",
+            "\r\n\tGood verbal &amp; written English communication\r\n\t",
+            "\r\n\tAbility to work with globally diverse teams\r\n\t",
+            "\r\n\tReadiness to work in flexible work timings\r\n\t",
+            "\r\n\tAbstract&amp; Analytical Thinking\r\n\t",
+            "\r\n\tAn interpersonal savvy. A very good team player\r\n\t",
+            "\r\n\tNimble learning. Willingness to explore and adapt\r\n\t"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                        22 - 50\r\n                 \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/manager-senior-manager-digital-marketing.35B6DDF9.html",
+        "Title": "Manager/Senior Manager Digital Marketing",
+        "Company": "PERSOLKELLY Vietnam"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "14/08/2021",
+            "field": "Tiếp thị / Marketing                                    ,                                                                             Tiếp thị trực tuyến",
+            "emplType": "Nhân viên chính thức",
+            "salary": "100 Tr - 150 Tr VND",
+            "expReq": "4 - 8 Năm",
+            "level": "Quản lý",
+            "dayEnd": "12/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Du lịch nước ngoài",
+            " Đồng phục",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Công tác phí",
+            " Nghỉ phép năm",
+            " CLB thể thao"
+        ],
+        "description": [
+            "Lead weekly/ monthly campaign and project-level reporting against defined marketing and business KPIs",
+            "Analyse and transform raw data from paid media campaigns, owned platforms (e.g. website, mobile apps) and CRM database into meaningful, actionable insights to drive strategic direction, deepen customer engagement and tactical campaign execution",
+            "Support the Digital &amp; Media team in optimization of budgets across channels ( campaign-level efficiency, conversion rates, re-engagement activities, etc.).",
+            "Work with internal stakeholders and media partners to augment and analyze multiple data sources, and actively communicate insights and findings",
+            "Play an active role in sharing knowledge of current and upcoming industry analytics platforms, standards and trends; benchmark company’s performance against industry standard methodologies",
+            "Drive the marketing performance and analytics framework for all digital media campaigns and activations",
+            "Work with Sales Department to optimize funnel conversion across both marketing and sales activities",
+            "Partner Customer Research to proactively collect market insights, 3rd party data and other sources to enrich the customer profile / persona",
+            "Represent the Marketing department in partnership with the Technology and Data divisions to establish a data and information workflow across departments",
+            "Collaborate with internal stakeholders from the Technology and Data divisions in the development of enterprise-wide Digital Performance Dashboard",
+            "Co-drive the development, deployment and integration of new analytics platforms and data science products, with strong change management"
+        ],
+        "requirements": [
+            "REQUIREMENTS",
+            "- Minimum 6 years of experience in digital analytics or business intelligence role with reputable corporations. Experience with digital consultancies or agencies a plus",
+            "- Excellent data problem solver, adapt quickly to a fast-moving organization, and passionate about marketing optimization",
+            "- Strong understanding of performance marketing channels and experienced in optimising campaigns by relevant KPIs such as CTR, CPA, etc.",
+            "- Expert user of MS Excel/Power Pivot. Working knowledge of Google Analytics and/ or Adobe Analytics and Tableau",
+            "- Knowledgeable in current technologies and trends in digital marketing, and across diverse channels including website, social, email, paid media, etc.) "
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/chuyen-gia-cvcc-phan-tich-va-quan-tri-du-lieu-san-pham-huy-dong-va-ngan-hang-giao-dich.35B6A0F9.html",
+        "Title": "Chuyên Gia/CVCC Phân Tích Và Quản Trị Dữ Liệu Sản Phẩm Huy Động Và Ngân Hàng Giao Dịch",
+        "Company": "Ngân Hàng TMCP Quốc Tế Việt Nam"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "09/08/2021",
+            "field": "Kế toán / Kiểm toán                                    ,                                                                             Ngân hàng                                    ,                                                                             Tài chính / Đầu tư",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "1 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "07/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Tăng lương"
+        ],
+        "description": [
+            "Phân tích và đánh giá mức độ hiệu quả của các dòng sản phẩm Huy động và giao dịch, bao gồm nhưng không giới hạn: Phân tích và đánh giá hiệu quả của các sản phẩm tiền gửi, sản phẩm dịch vụ thu phí và chương trình marketing sản phẩm dịch vụ; Phân tích và đánh giá xu thế tăng giảm về biên độ giá (NIM), lợi nhuận từ lãi (NII) để tham vấn các Giám đốc Phát triển sản phẩm điều chỉnh phù hợp với mục tiêu kinh doanh của Khối RB;",
+            "Tham vấn giám đốc sản phẩm các số liệu trên cơ sở phân tích dữ liệu Khách hàng hiện có để xây dựng các chương trình marketing sản phẩm phù hợp và hiệu quả;",
+            "Theo dõi biến động về chỉ số kinh doanh của dòng sản phẩm huy động gồm: số dư huy động, giá huy động bình quân, cấu trúc ngắn trung dài hạn…để kịp thời tham vấn Giám đốc sản phẩm có chiến lược kinh doanh phù hợp với định hướng của Khối RB;",
+            "Phối hợp với các bên liên quan xây dựng công cụ bán và quản lý bán dành cho Quản lý khách hàng (PB), Giám đốc Quản lý khách hàng;",
+            "Phân tích và đánh giá các cơ chế lương, thưởng cho các chức danh bán hàng của sản phẩm Huy động và Ngân hàng giao dịch, để tham vấn Giám đốc sản phẩm và Ban nhân sự có điều chỉnh về chính sách phù hợp với mục tiêu kinh doanh của Khối RB;",
+            "Thực hiện các nhiệm vụ khác theo phân công của quản lý trực tiếp."
+        ],
+        "requirements": [
+            "Trình độ Cử nhân trở lên chuyên ngành Tài chính - Ngân hàng, Quản trị kinh doanh, Công nghệ thông tin, Quản trị thông tin MIS &amp; Phân tích dữ liệu;",
+            "Tối thiểu 5 năm (Chuyên gia)/4 năm (Chuyên viên cao cấp)/3 năm (Chuyên viên chính)/2 năm (Chuyên viên) kinh nghiệm làm việc chuyên môn trong quản lý doanh mục sản phẩm Huy động vàNgân hàng giao dịch, phát triển sản phẩm của các tổ chức tài chính;",
+            "Kỹ năng tư duy logic, sáng tạo và chiến lược tốt;",
+            "Kỹ năng xử lý dữ liệu với SQL/SAS/VBA và tự động hoá (biết Python là 1 lợi thế) hành thạo;",
+            "Kỹ năng giao tiếp và xây dựng các mối quan hệ tốt;",
+            "Kỹ năng tiếng Anh thành thạo (Nói &amp; Viết)."
+        ],
+        "others": [
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/senior-risk-modeling-specialist-chuyen-vien-chuyen-vien-cao-cap-rui-ro-mo-hinh.35B6F264.html",
+        "Title": "Senior Risk Modeling Specialist (Chuyên Viên/Chuyên Viên Cao Cấp Rủi Ro Mô Hình)",
+        "Company": "Ngân Hàng TMCP Quân Đội"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "16/08/2021",
+            "field": "Ngân hàng                                    ,                                                                             Tài chính / Đầu tư",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "2 - 0 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "31/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương"
+        ],
+        "description": [
+            "Participate in projects to develop credit risk models: (A, B Score), Telco model, Income model and other credit models (PD, LGD, EAD)",
+            "Compile and analyse data to support business and management in decisions related to credit risk.",
+            "Design of strategies or business rules and applying model result into business: cut-off, risk based pricing, cross-sale, up-sale, early warning...",
+            "Develop Scoring system, Retail Loan Origination System (LOS/BPM)",
+            "Develop frequency &amp; ad-hoc reports to continuously evaluate and visualize the performance of our models and credit risks in general.",
+            "Kick-start a career in credit risk modelling &amp; frameworks and surrounding credit processes."
+        ],
+        "requirements": [
+            "Bachelor degree or higher in quantitative field (Engineering, Statistics, Mathematics, Sciences, Finance, Business/Economics, Information Technology )",
+            "Knowledge of statistical and mathematical modelling techniques, machine learning, optimization or related fields",
+            "At least 2 year experience in a statistical and/or data science role, working with large data sets, simulation/ optimization and distributed computing tools",
+            "Experience with developing credit modelling: credit scoring system (A, B, C-Score model) and PD, LGD, EAD",
+            "Programming skills (VBA, SQL, R, Python, SPSS or any equivalent programs)",
+            "Strong analytical skills with ability to deliver insightful ideas, excited to draw findings from figures",
+            "Strong and highly motivated leader, with positive mindset &amp; attitude",
+            "CFA, FRM is a plus",
+            "Proficiency in English, Vietnamese both written and spoken"
+        ],
+        "others": [
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/data-scientist.35B6B8D3.html",
+        "Title": "Data Scientist",
+        "Company": "Bà"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "23/07/2021",
+            "field": "CNTT - Phần cứng / Mạng                                    ,                                                                             CNTT - Phần mềm",
+            "emplType": "Nhân viên chính thức",
+            "salary": "14 Tr - 40 Tr VND",
+            "expReq": "1 - 2 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "21/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương"
+        ],
+        "description": [
+            "Selecting features, building and optimizing classifiers using machine learning techniques",
+            "Data mining using state-of-the-art methods",
+            "Extending company’s data with third party sources of information when needed",
+            "Enhancing data collection procedures to include information that is relevant for building analytic systems",
+            "Processing, cleansing, and verifying the integrity of data used for analysis",
+            "Doing ad-hoc analysis and presenting results in a clear manner",
+            "Creating automated anomaly detection systems and constant tracking of its performance",
+            "Offer around $700 - $2000 &amp; 15-17 months' wage/year",
+            "You’ll love working in our dynamic environment with &gt;15.000 young &amp; active employees, Honor &amp; Award for the best employees who have great contribution to the company’s success, especially the awards night for 50 best employees each year will be held overseas",
+            "Unique culture with many exciting activities: rookie training, 72 hours experience, team building, status quo, village festival ...",
+            "Being trained by professionals, having many promoting opportunities to become managers in the leading technology groups in Vietnam, with more than 30,000 people and a professional environment",
+            "Obtaining full legal insurance coverage for yourself and your family with FPT-Care"
+        ],
+        "requirements": [
+            "● Bachelor/Master/PhD's degree in a relevant technical discipline (Math, Engineering, Computer Science, Statistics or similar field)● Excellent understanding of machine learning techniques and algorithms, such as k-NN, Naive Bayes, SVM, Decision Tree, Random Forests, etc.● Understanding deep learning models, such as simple neural network, CNN, RNN, etc.● Experience with common data science toolkits, such as R, Python, MatLab, etc. Excellence in at least one of these is highly desirable ● Familiar with bigdata framework, such as Hadoop, Spark, etc.● Great communication skills● Experience with data visualization tools, such as ggplot, qplot, matplotlib, etc.● Proficiency in using query languages such as SQL, Hive, etc.● Experience with NoSQL databases, such as MongoDB, Cassandra, HBase, etc.● Good applied statistics skills, such as distributions, statistical testing, regression, etc.● Good scripting and programming skills."
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Cao đẳng\r\n         ",
+            " Độ tuổi:\r\n                        22 - 35\r\n                 \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/head-of-bancassurance-digital-marketing.35B6EE1F.html",
+        "Title": "Head of Bancassurance Digital Marketing",
+        "Company": "FE CREDIT"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "18/08/2021",
+            "field": "Tài chính / Đầu tư                                    ,                                                                             Tiếp thị / Marketing",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "5 - 10 Năm",
+            "level": "Quản lý",
+            "dayEnd": "31/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Công tác phí",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Responsible for the overall marketing strategies of VPB FC’s Bancassurance Business in the country, with a strong focus on Internal &amp; External Communications, Public Relations and Digital Marketing",
+            "Manage the development &amp; implementation of marketing plans and control budget to maximize sales, popularize VPB FC’s bancassurance brand as well as enhancing customers’ satisfaction towards our insurance products.",
+            "Monitor marketing projects, campaigns and action plans for full project cycle from initiation to performance evaluation.",
+            "Propose internal &amp; external communications plans to serve business development purposes ",
+            "Ensure all marketing materials are delivered to a high standard, across a range of internal &amp; external channels, within the deadline",
+            "Pitch stories to both international and local media to achieve the highest visibility on traditional and online media outlets",
+            "Respond to media inquiries and organize PR events to promote bancassurance products",
+            "Identify key media outlets and maintain relationship to manage media crisis",
+            "Coordinate with the Board of Director to define talking points for media communications",
+            "Gain brand presence online through effective SEO, social media, web-based design and content",
+            "Execute plans to drive website traffic, apps installation, lead acquisition and improve conversion",
+            "Monitor and listen actively on social community to analyze engagement, reach, comments, and sentiment towards bancassurance brand",
+            "Develop tracking and monitoring system to ensure KPIs are meeting targets, conduct analysis and learnings from data and reports",
+            "Manage, lead and coach respective team members for both personal &amp; professional growth within the company.",
+            "Provide related teams with valuable insights &amp; contents to translate into competitive creative and transformative solutions."
+        ],
+        "requirements": [
+            "BS in Business Administration (Marketing, Commerce, Finance concentration preferred), Data Science, Marketing Tech. ",
+            "In depth qualifications in insurance, data science &amp; applied marketing is highly appreciated.",
+            "Minimum 5 years of experience in Digital Marketing, Public Relations or Communications, preferably working for Insurance Companies, Banks or Financial Institution",
+            "Must be fluent and articulated in Vietnamese &amp; English communication",
+            "Proven success in the following job competencies: \r\n\t\r\n\t\tProject coordination and/or management \r\n\t\tCommunication and Presentation\r\n\t\tRelationship Building \r\n\t\tProactive problem solving\r\n\t\tStrategic &amp; creative mindset\r\n\t\r\n\t",
+            "Project coordination and/or management ",
+            "Communication and Presentation",
+            "Relationship Building ",
+            "Proactive problem solving",
+            "Strategic &amp; creative mindset",
+            "Computer Skills: Advanced skills in Microsoft Office applications, specifically Visio, Excel",
+            "Ability to work independently and as team member under high pressure and tight deadlines",
+            "Sound project management, analytical skills",
+            "Proactivity &amp; good leadership"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/power-bi-specialist.35B6ED3B.html",
+        "Title": "Power BI Specialist",
+        "Company": "Unilever Vietnam International"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "18/08/2021",
+            "field": "Hàng gia dụng / Chăm sóc cá nhân                                    ,                                                                             CNTT - Phần mềm",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "3 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "20/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "1. Powered Data Solution:- Pulling &amp; process unstructured data into a suitable form for dashboard creation- Support &amp; maintain developed dashboard to ensure service to end-user as per business cycles- Master CD data structure to maximize business benefit through activating power of data platform.2. Analytic Service- Analyze request &amp; create add-in report to responding business operational requirement.- Enhancing dashboard visualization to be better experience of end-user according to request of dashboard owner- Data accuracy validation, data reconciliation.- Reporting service hotline3. Service Enhancement- Measuring Adoption &amp; Ticket raise for continuous improvement"
+        ],
+        "requirements": [
+            "- Bachelor Degree- 3 years business experience- Experience in requirement management, including eliciting, analysing, validating and formalization / regulation of requirements in written format. Ability to create and maintain specification documentation- Experience in working with data science, project analysis and big database- Ability to rapidly connect + match analytics and data products to business needs- Expert knowledge of an analysis tool such as Power Query, Microsoft PowerBI.- Working knowledge of an analysis tool such as R, Python, Matlab, or SAS- Working knowledge to apply Microsoft Azure analytics product to develop scaled analytic models in the cloud- Ability to apply an agile analytic approach that allows for results at varying levels of precision"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                        25 - 35\r\n                 \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/machine-learning-engineer-instructor.35B6962F.html",
+        "Title": "Machine Learning Engineer (Instructor)",
+        "Company": "CÔNG TY TNHH CODERSCHOOL"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "03/08/2021",
+            "field": "Giáo dục / Đào tạo                                    ,                                                                             CNTT - Phần mềm",
+            "emplType": "Nhân viên chính thức",
+            "salary": "20 Tr - 35 Tr VND",
+            "expReq": "2 - 3 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "01/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Phụ cấp thâm niên",
+            " Nghỉ phép năm",
+            " CLB thể thao"
+        ],
+        "description": [
+            "Running class",
+            "Working with students",
+            "Improving course materials, creating new lessons",
+            "Running workshops / webinars",
+            "Working on internal software tools"
+        ],
+        "requirements": [
+            "Technical knowledge in the following:Machine Learning:Python. Duh. We teach Python 3.x.Pandas, NumpyClassical Machine Learning - Regression, Clustering, ClassificationDeep Learning - Tensorflow + Keras",
+            "Machine Learning:Python. Duh. We teach Python 3.x.Pandas, NumpyClassical Machine Learning - Regression, Clustering, ClassificationDeep Learning - Tensorflow + Keras",
+            "Python. Duh. We teach Python 3.x.",
+            "Pandas, Numpy",
+            "Classical Machine Learning - Regression, Clustering, Classification",
+            "Deep Learning - Tensorflow + Keras",
+            "Decent English for Communication and Making Content (Writing and Speaking)",
+            "Ielts speaking &gt;6.5 and Writing &gt;6Interpersonal skills:Curious about peopleEager to talk, help and mentor themRelax and Easy-goingWilling to learn and love sharing",
+            "Interpersonal skills:Curious about peopleEager to talk, help and mentor themRelax and Easy-goingWilling to learn and love sharing",
+            "Curious about people",
+            "Eager to talk, help and mentor them",
+            "Relax and Easy-going",
+            "Willing to learn and love sharing",
+            "Degree in Computer Science or related majorAlgorithm and Data StructureBasic Math (linear algebra, calculus and probability)",
+            "Algorithm and Data Structure",
+            "Basic Math (linear algebra, calculus and probability)",
+            "We will send you a small \"teacher test\" where we ask you to record a short video of yourself explaining something.",
+            "Nice, smart, and talented colleagues",
+            "A chance to work on something that really makes a meaningful difference in people's lives",
+            "Attractive salary package + commission",
+            "English-based working environment",
+            "Performance and Salary Reviews 2x a year",
+            "Flexible work from home policy",
+            "Quarterly Personal Learning+Development Benefit",
+            "Free and/or heavily discounted classes at CoderSchool for yourself and family",
+            "A birthday cake once a year",
+            "Young, friendly, active working environment centered around growth",
+            "Dog-friendly office"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Thời gian thử việc: 2 tháng ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t",
+            " Thời gian làm việc: 10 AM - 6 PM "
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/hn-fraud-risk-reviewer.35B7053A.html",
+        "Title": "[HN] Fraud Risk Reviewer",
+        "Company": "CÔNG TY CỔ PHẦN ONE MOUNT GROUP"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "18/08/2021",
+            "field": "Ngân hàng",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "1 - 0 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "18/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Công tác phí",
+            " Nghỉ phép năm",
+            " CLB thể thao"
+        ],
+        "description": [
+            "Review data to find out suspicious cases ",
+            "Handle soft investigate daily suspicious fraud cases on system and fraud claims.",
+            "Proposal appropriate controls, internal alerts and fraud mitigation plan ",
+            "Participate in aspects of fraud risk in reviewing policy, process of all company in order to reduce fraud loss ",
+            "Monitor and respond timely to various Fraud Alerts produced by services like app account opening, payment, lending ",
+            "Other tasks assigned by line manager  "
+        ],
+        "requirements": [
+            "Bachelor’s degree in Economics, Finance- banking, Data science",
+            "At least 01-year experience in Fraud management/Detection of Digital Banking, Financial Services.",
+            "Knowledge of data structure languages SQL / My SQL… or BI tool is advantageous ",
+            "Office application information technology (Word, Power Point, MS Access, Excel (VBA), Internet ...)",
+            "Good communication skills, agile and professional manners"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/marketing-data-reporting-analyst.35B6EC44.html",
+        "Title": "Marketing Data &amp; Reporting Analyst",
+        "Company": "Công Ty Tài Chính Mirae Asset (Việt Nam)"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "17/08/2021",
+            "field": "CNTT - Phần mềm                                    ,                                                                             CNTT - Phần cứng / Mạng                                    ,                                                                             Tiếp thị / Marketing",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "2 - 3 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "30/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Tăng lương",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "1. JOB SCOPE",
+            "Mirae Asset Finance Vietnam is looking for a Marketing Data and Reporting Analyst to join our marketing team. You will take responsibility for managing our master data set, developing reports, performance tracking dashboard, monthly/quarterly performance report and troubleshooting data issues. To do well in this role you need a very fine eye for detail, experience as a data analyst, and a deep understanding of the popular data analysis tools and databases with basic understanding related to marketing industry.",
+            "2. RESPONSIBILITIES",
+            "- Experience as a Data Analyst, with good command of SQL (Or R, Python) to analyze and deliver actionable insight for Marketing Department",
+            "- Experience in tracking performance system on website (Google Tag Manager, Google Analytics) and mobile application (Appsflyer)",
+            "- Experience and comprehensive understanding of data collection (from Data warehouse, Lead Portal, CRM and other internal systems...)",
+            "- Be familiar with visualization tools like Power BI, Tableau or similar tools to build dashboard &amp; deliver corresponding reports",
+            "- Experience with testing and deployment",
+            "- Strong interpersonal skill and ability to work as a team or independently.- Strong communication and coordination skills to work with internal partners/Departments (IT, Collection, Sales, Digital, etc)",
+            "- Experience with website developer (Wordpress, HTML5,…) as a plus",
+            "- Other tasks as assigned"
+        ],
+        "requirements": [
+            "- University Degree in Statistics, Mathematics, data science or its equivalent.",
+            "- At least 3 years’ experience in relevant positions",
+            "- Be Detail-Oriented with a business &amp; innovative mindset",
+            "- Ability to analyze statistical and other types of data.",
+            "- Experience in Consumer finance or banking is a big plus",
+            "- Willing to learn new skill set (HTML, CSS, wordpress) to take initiative to build and maintain landing page website for specific campaigns"
+        ],
+        "others": [
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/data-scientist.35B70385.html",
+        "Title": "Data Scientist",
+        "Company": "Công Ty TNHH Giải Trí Vietcom"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "17/08/2021",
+            "field": "Tài chính / Đầu tư                                    ,                                                                             CNTT - Phần mềm                                    ,                                                                             Giải trí",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "1 - 0 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "17/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Train and deploy NLP models such as Sentiment Analysis, Topic Classification",
+            "Train and deploy AI model to auto-generate insights from numeric data",
+            "Train and deploy AI model to extract commercial brands from text"
+        ],
+        "requirements": [
+            "1+ years of experience in data science or AI/ML.",
+            "Experience in NLP is a preferred",
+            "Proficient in Python data science frameworks such as scikit-learn, pandas, tensorflow",
+            "Proficient in SQL",
+            "Strong skills and knowledge in mathematics and/or statistics",
+            "Income: always competitive with the market; responsive in accordance with the expertise and capacity of candidates and can be negotiated during interview",
+            "Good welfare regime: PVI Health Insurance; Social insurance; party month / year; visit sick policy, wedding or funeral; annual health examination; Tet bonus and reward based on work performance, ...",
+            "Provided with computers, phone for work, free parking",
+            "Sociable, dynamic &amp; professional environment",
+            "Professional training support according to job requirements and recommendations of each individual",
+            "Many promotion opportunities, always training and professional development",
+            "Company culture: companionship, gratitude"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/r-d-technician-working-at-nhon-trach.35B7000E.html",
+        "Title": "R&amp;D Technician (Working at Nhơn Trạch)",
+        "Company": "AkzoNobel Vietnam"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "13/08/2021",
+            "field": "Công nghệ sinh học                                    ,                                                                             Hóa học                                    ,                                                                             Quản lý chất lượng (QA/QC)",
+            "emplType": "Nhân viên chính thức",
+            "salary": "8 Tr - 10 Tr VND",
+            "expReq": "1 - 2 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "05/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương"
+        ],
+        "description": [
+            "Maintains and promotes a safe work environment, complies with safety policies and procedures. Follows safe work practices for personal and equipment safety, in both the laboratory and in the field. End results are zero or minimum safety incidents and a clean, orderly working environment",
+            "Conducts formulation or technical work (in the lab) as defined in the departmental research plan",
+            "Documents (lab) results, etc. through appropriate reporting systems, reports outcome to manager",
+            "Is familiar with relevant experimental approaches and techniques"
+        ],
+        "requirements": [
+            "Technical educational in relevant field, e.g. chemistry, chemical technology, environmental, maths, statistics, data science etc. ",
+            "Obtain 1-2 years of relevant experience",
+            "Problem Solving",
+            "Experimental Principles &amp; Design ",
+            "Ability to communicate in English"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/r-d-technician.35B6F831.html",
+        "Title": "R&amp;D Technician",
+        "Company": "AkzoNobel Vietnam"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "14/08/2021",
+            "field": "Công nghệ sinh học                                    ,                                                                             Hóa học                                    ,                                                                             Quản lý chất lượng (QA/QC)",
+            "emplType": "Nhân viên chính thức",
+            "salary": "8 Tr - 10 Tr VND",
+            "expReq": "1 - 2 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "05/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương"
+        ],
+        "description": [
+            "Maintains and promotes a safe work environment, complies with safety policies and procedures. Follows safe work practices for personal and equipment safety, in both the laboratory and in the field. End results are zero or minimum safety incidents and a clean, orderly working environment ",
+            "Conducts formulation or technical work (in the lab) as defined in the departmental research plan ",
+            "Documents (lab) results, etc. through appropriate reporting systems, reports outcome to manager  ",
+            "Is familiar with relevant experimental approaches and techniques "
+        ],
+        "requirements": [
+            "Technical educational in relevant field, e.g. chemistry, chemical technology, environmental, maths, statistics, data science etc. ",
+            "Obtain 1-2 years of relevant experience",
+            "Problem Solving",
+            "Experimental Principles &amp; Design ",
+            "Ability to communicate in English"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/chief-technology-officer.35B6F62A.html",
+        "Title": "Chief Technology Officer",
+        "Company": "Monroe Consulting Group Vietnam"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "12/08/2021",
+            "field": "Dược phẩm                                    ,                                                                             Y tế / Chăm sóc sức khỏe                                    ,                                                                             CNTT - Phần mềm",
+            "emplType": "Nhân viên chính thức",
+            "salary": "200 Tr - 300 Tr VND",
+            "expReq": "10 - 20 Năm",
+            "level": "Giám đốc ",
+            "dayEnd": "05/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Du lịch nước ngoài",
+            " Đào tạo",
+            " Tăng lương",
+            " Công tác phí",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Company Profile: International award-winning executive recruitment expert Monroe Consulting Group is recruiting on behalf of a leading health and wellness company. Our client is seeking for a Chief Information Officer with strong experience in eCommerce or retails platform.",
+            "Job Responsibilities:",
+            "• CTO creates supply chain and digital experience strategies for the business and executes them to deliver profit and loss;",
+            "• CTO’s promised results:",
+            "• Responsible for all strategic and operational activities of digital experience (e-commerce, data science, information technology), and is responsible for achieving the company’s financial goals, Experience customer and data-driven.",
+            "• Responsible for the goals and KPIs of the digital experience.",
+            "• Review, modify and formulate the organizational structure of the department / department, job description, process, budget to implement the strategy / objectives of the company. Be sure to check back regularly or as needed.",
+            "• Establish department / department and individual KPIs to be consistent with line managers to ensure goals are achieved.",
+            "• Set goals for subordinates, assign KPIs, issue instructions, provide support to achieve goals, and ensure performance reviews are conducted as needed.",
+            "• Establish and develop teams, organize, and assign tasks, and manage team performance; implement staff capacity assessments and conduct professional development activities to bridge the gap between current expectations and expectations.",
+            "• Participate in the formulation of long-term business strategies and ensure the execution of digital experience operations (e-commerce, data science and information technology departments).",
+            "• Promotes successful e-commerce business, providing excellent customer experience, growth and profitability."
+        ],
+        "requirements": [
+            "•          5 years+ of experience as CTO in ecommerce or related industry",
+            "•          Strong business communication and presentation skills.",
+            "•          Excellent in consumer understanding, client/stakeholder relationship management.",
+            "•          Great project management, analytical skills and attention to detail.",
+            "•          Strong in technical and programming management.",
+            "•          Language: fluent Vietnamese, and good English business level.",
+            "•          Good leadership, effective planning, time management, presentation, teamwork.",
+            "•          Good at negotiation, persuasive &amp; effective communication cross functions and presentation skill."
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/data-scientist.35B6A607.html",
+        "Title": "Data Scientist",
+        "Company": "Vietnam Technological &amp; Commercial Joint"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "11/08/2021",
+            "field": "CNTT - Phần mềm",
+            "emplType": "Nhân viên chính thức",
+            "salary": "30 Tr - 60 Tr VND",
+            "expReq": "4 - 5 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "09/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [],
+        "description": [
+            "Objective",
+            "- The job holder advises and provides business with insights from massive amounts of structured and unstructured potential data to help shape or meet specific business objectives.\r\n- The job holder will build data science solutions using advance machine learning and deep learning methods, recommendation engines, statistical analysis, data mining and data visualization techniques, to create solutions that enable enhanced business performance.",
+            "Key accountabilities",
+            "A. Data Solutioning\r\n- Build algorithms and work with machine learning and deep learning tools to deliver advance analytics solutions across the firm including recommendation engines, customized data models, customer journeys, graph modes, etc.\r\n- Mine and analyze data from company’s databases to drive optimization and improvement of business strategies.\r\n- Use predictive modelling to increase and optimize customer journey experiences, revenue generation and other business outcomes.\r\n- Analyze data for trends and patterns and interpret the data with clear objective in mind.\r\n- Execute and review data science projects in an agile manner and in compliance with internal regulatory requirements.\r\nB. Data Insighting\r\n- Lead the identification and interpretation of meaningful and actionable insights from large data and metadata sources.\r\n- Develop processes and tools to monitor and analyze model performance and data accuracy.\r\n- Interact with 1-2 squads to identify questions and issues for data analysis.\r\n- Assess the effectiveness and accuracy of new data sources and data gathering techniques."
+        ],
+        "requirements": [
+            "C, C++, R, Python, Scala, SQL, Java, Tableau, R"
+        ],
+        "others": [
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/risk-reporting-analyst.35B6FE4C.html",
+        "Title": "Risk Reporting Analyst",
+        "Company": "Công ty Tài Chính Cổ Phần Tín Việt "
+    },
+    "metadata": [
+        {
+            "dayUpdate": "13/08/2021",
+            "field": "Ngân hàng                                    ,                                                                             Tài chính / Đầu tư                                    ,                                                                             CNTT - Phần mềm",
+            "emplType": "Nhân viên chính thức",
+            "salary": "15 Tr - 25 Tr VND",
+            "expReq": "2 - 4 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "21/09/2021"
+        }
+    ],
+    "data": {
+        "benefits": [
+            " Laptop",
+            " Chế độ bảo hiểm",
+            " Du Lịch",
+            " Phụ cấp",
+            " Đồng phục",
+            " Chế độ thưởng",
+            " Chăm sóc sức khỏe",
+            " Đào tạo",
+            " Tăng lương",
+            " Nghỉ phép năm"
+        ],
+        "description": [
+            "Đảm bảo tính đúng đắn của dữ liệu phục vụ công tác ra quyết định kinh doanh.",
+            "Là nhân sự hỗ trợ về mặt dữ liệu liên kết với vận hành và kiểm soát các nhóm nghiệp vụ trong tuyến phòng thủ số 2 của các Phòng quản lý rủi ro",
+            "Xây dựng datamark tối ưu trong công tác quản trị dữ liệu hàng ngày.",
+            "Xây dựng các báo cáo hàng tuần, hàng tháng theo các chỉ số KCI (key control indicator) yêu cầu.",
+            "Tham gia hoặc phối hợp với nhóm phân tích trong việc xây dựng báo cáo quản trị danh mục, quản trị nợ xấu, dự đoán rủi ro.",
+            "Phân tích dữ liệu theo các yêu cầu định kỳ/ đột xuất phục vụ việc quản lý công tác Thu hồi nợ, quản lý rủi ro của Công ty từ các cấp quản lý.",
+            "Hỗ trợ phòng ban trong việc đánh giá các dự án đang triển khai, chính sách đang áp dụng ..."
+        ],
+        "requirements": [
+            "• Nam/Nữ (22-35 tuổi), tốt nghiệp Đại Học trở lên các ngành liên quan MIS/ information system, Data Science, IT, Business Analyst, Mathematics, Statistics hoặc các ngàng tương đương. ",
+            "• Có kinh nghiệm từ 2 năm trở lên ở vị trí tương đương, Ưu tiên nhân sự trực thuộc Phòng QLRR các ngân hàng/ Công ty tài chính (hoặc cho vay khác)/ Thương mại điện tử",
+            "• Có hiểu biết về ngàng Tài chính Ngân hàng/ Thương mại điện tử hoặc các ngành nghề khác trong đó phụ trách công việc về Phân tích dữ liệu",
+            "• Có kiến ​​thức về ngôn ngữ lập trình: SQL/Tableau/SAS/ R/ Python.",
+            "• Có kiến thức về các công cụ, phần mềm trực quan hóa: PowerBI, Tableau,...",
+            "• Chủ động trong công việc, năng động, nhiệt tình.",
+            "• Có khả năng làm việc độc lập và làm việc theo nhóm.",
+            "• Sắp xếp công việc khoa học và quản lý thời gian tốt",
+            "• Sức khoẻ tốt, năng động, nhiệt tình, chịu được áp lực công việc cao",
+            "- Thời gian làm việc: Hành chính (nghỉ Thứ 7, Chủ nhật)",
+            "- Nơi làm việc: Tầng 9, Tòa nhà DREAMPLEX 195, Điện Biên Phủ, Bình Thạnh, HCM"
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                        22 - 30\r\n                 \r\n\t"
+        ]
+    }
+},
+{
+    "IDents": {
+        "Site": "CareerBuilder",
+        "URL": "https://careerbuilder.vn/vi/tim-viec-lam/risk-reporting-analyst-gcb7.35B67B7B.html",
+        "Title": "Risk Reporting Analyst (GCB7)",
+        "Company": "HSBC Vietnam"
+    },
+    "metadata": [
+        {
+            "dayUpdate": "21/07/2021",
+            "field": "Ngân hàng",
+            "emplType": "Nhân viên chính thức",
+            "salary": "Cạnh tranh",
+            "expReq": "1 - 3 Năm",
+            "level": "Nhân viên",
+            "dayEnd": "19/08/2021"
+        }
+    ],
+    "data": {
+        "benefits": [],
+        "description": [
+            "Support the production of regulatory reports for multiple regulators;",
+            "Handle complex regular and ad-hoc local regulatory reports in accordance with local requirements;",
+            "Ensure local reporting in accordance with guidelines issued by relevant regulator;",
+            "Maintain and continually enhance reporting system upon local regulation changes;",
+            "Design smart/automated/insightful MI based on local reporting standards for Management awareness/action;",
+            "Ensure changes to reporting process are implemented in system accurately and timely;",
+            "Perform periodic review and analyse existing reporting and recommend amendments/innovative streamlining solution as appropriate;",
+            "Support initiatives launched by the country management and supported by Risk as well as any other projects as required by line manager.",
+            "Constantly review, improve and challenge process efficiency / statu quo;",
+            "Liaise with respective departments on system solution/recommendation to ensure new requirements are delivered accurately with relevant controls in place;",
+            "Build strong relationships, adopting a joined up approach, to deliver business requirements at pace;",
+            "Maintain contact with stakeholders to identify and communicate reporting issue, status and potential risks;",
+            "Deliver processing efficiency &amp; high levels of customer services;",
+            "Help maintaining a good working relationship with regulators.",
+            "Ensure compliance with external regulatory requirements, internal control standards and group compliance policy;",
+            "Review process procedures along with controls in place to ensure maximum level of accuracy;",
+            "Timely implements system change / recommendations made by line manager / functional head / regulator;",
+            "Ensure appropriate control of any new change impacting reporting process;",
+            "Monitor system implementation &amp; enhancements (HUB, Google Cloud, etc.);",
+            "Ensure end to end process documentation is in place/comprehensive/accurate and maintained regularly;",
+            "Ensure strict compliance with government banking regulations"
+        ],
+        "requirements": [
+            "Good problem solving ability;",
+            "Good ability to process and analyse complex data to obtain insights through data analysis and MI;",
+            "Proven experience delivering projects, participating in challenging project;",
+            "At least 1-3 years’ experience in related fields (previous experience in one of the following is desirable: regulatory/banking/risk management/credit policy/approvals/credit operations/IT/data science);",
+            "Understanding of Retail and/or Wholesale banking and regulatory framework.",
+            "Understanding of Vietnam Accounting Standards (VAS) and local regulator approach for reporting;",
+            "Bachelor’s degree or equivalent professional qualification, preferably in relation to Banking, Data Science, Analytics, IT ...",
+            "Able to communication and support a diverse range of stakeholders (e.g. finance, risk, IT, etc.);",
+            "Proficient in written and spoken English/Vietnamese;",
+            "Knowledge of Google Cloud Platform or equivalent is preferred;",
+            "Knowledge of programming language is preferred: SAS, Python, SQL;",
+            "Knowledge of data visualisation software is preferred: Tableau, Qlik."
+        ],
+        "others": [
+            " Bằng cấp:\r\n                Đại học\r\n         ",
+            " Độ tuổi:\r\n                Không giới hạn tuổi\r\n         \r\n\t"
+        ]
+    }
+}
